@@ -30,4 +30,16 @@ DOCKERFILE
 cd tempdir
 docker build -t sampleapp .
 docker run -t -d -p 5050:5050 --name samplerunning sampleapp
-docker ps -a
+
+# Wait for container to fully start
+sleep 10
+
+# Verify container is running and responding
+echo "=== Container Status ==="
+docker ps | grep samplerunning
+
+echo "=== Testing App Response ==="
+# Test the app from build job itself
+curl -f http://localhost:5050/ || echo "App not responding yet"
+
+echo "=== Build Complete ==="
