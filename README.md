@@ -1,12 +1,12 @@
 # 🚀 Enhanced Sample App with CI/CD Pipeline 
-##Software Engineering[202501-ISE4133-001]
+## Software Engineering[202501-ISE4133-001]
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](http://localhost:8080)
 [![API Status](https://img.shields.io/badge/API-7%2F7%20working-success)](http://localhost:5050/api)
 [![Bonus Features](https://img.shields.io/badge/bonus%20features-completed-gold)](http://localhost:5050)
-##Student id - 12225261
-##Name - Shukurullo Meliboev
-##Professor - Kakani Vijay
+## Student id - 12225261
+## Name - Shukurullo Meliboev
+## Professor - Kakani Vijay
 <img width="1415" alt="part1" src="https://github.com/user-attachments/assets/94e109ed-ad2d-44b5-8517-4d72f7339fd4" />
 <img width="1415" alt="part2" src="https://github.com/user-attachments/assets/da27f562-8d2f-42c1-9117-8b9bc892bb1f" />
 <img width="1668" alt="part3" src="https://github.com/user-attachments/assets/d754679d-6c10-4c64-a5ba-be2e85388194" />
