@@ -3,8 +3,10 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](http://localhost:8080)
 [![API Status](https://img.shields.io/badge/API-7%2F7%20working-success)](http://localhost:5050/api)
 [![Bonus Features](https://img.shields.io/badge/bonus%20features-completed-gold)](http://localhost:5050)
+<img width="1415" alt="part1" src="https://github.com/user-attachments/assets/94e109ed-ad2d-44b5-8517-4d72f7339fd4" />
+<img width="1415" alt="part2" src="https://github.com/user-attachments/assets/da27f562-8d2f-42c1-9117-8b9bc892bb1f" />
 
-## 📋 Table of Contents
+📋 Table of Contents
 - [Overview](#overview)
 - [🏆 Bonus Features](#-bonus-features)
 - [🔧 Technical Architecture](#-technical-architecture)
